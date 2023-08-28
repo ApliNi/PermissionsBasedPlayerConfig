@@ -1,0 +1,2 @@
+# PermissionsBasedPlayerConfig
+基于权限的玩家配置
